@@ -186,7 +186,7 @@
 
 <script lang="ts" setup>
 import LogoBox from "@/components/topbar/LogoBox.vue";
-import pattern2 from "@/assets/images/decoration-pattern-2.svg";
+//import pattern2 from "@/assets/images/decoration-pattern-2.svg";
 import { quickLinks, followOnIcons } from "@/assets/data/footer-items";
 
 import { contactDetails } from "@/assets/data/footer-items";
