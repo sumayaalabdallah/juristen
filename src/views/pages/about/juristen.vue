@@ -60,7 +60,7 @@
 </template>
 
 <script setup lang="ts">
-import bg9Img from "@/assets/images/Juristen hero.jpg";
+import bg9Img from "@/assets/images/Juristen.jpg";
 import BlogCard from "@/views/pages/about/About/components/BlogCard.vue";
 import { cards } from "@/views/pages/about/data";
 import { onMounted } from "vue";

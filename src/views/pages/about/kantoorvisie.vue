@@ -417,7 +417,7 @@
 </template>
 
 <script setup lang="ts">
-import bg9Img from "@/assets/images/Kantoorvisie hero.jpg";
+import bg9Img from "@/assets/images/Kantoorvisie.jpg";
 
 import { onMounted } from "vue";
 import AOS from "aos";
